@@ -87,3 +87,97 @@
    },
 }
 ```
+
+
+
+#### Sample Response
+```json
+{
+  "status": true,
+  "data": {
+      "name": "English Premier League",
+      "abbreviation": "Prem",
+      "seasonDisplay": "2020-2021",
+      "season": 2020,
+      "standings": []
+   },
+}
+```
+
+
+#### Sample Response
+```json
+{
+  "status": true,
+  "data": {
+      "name": "English Premier League",
+      "abbreviation": "Prem",
+      "seasonDisplay": "2020-2021",
+      "season": 2020,
+      "standings": []
+   },
+}
+```
+
+
+
+#### Sample Response
+```json
+{
+  "status": true,
+  "data": {
+      "name": "English Premier League",
+      "abbreviation": "Prem",
+      "seasonDisplay": "2020-2021",
+      "season": 2020,
+      "standings": []
+   },
+}
+```
+
+
+
+#### Sample Response
+```json
+{
+  "status": true,
+  "data": {
+      "name": "English Premier League",
+      "abbreviation": "Prem",
+      "seasonDisplay": "2020-2021",
+      "season": 2020,
+      "standings": []
+   },
+}
+```
+
+
+
+#### Sample Response
+```json
+{
+  "status": true,
+  "data": {
+      "name": "English Premier League",
+      "abbreviation": "Prem",
+      "seasonDisplay": "2020-2021",
+      "season": 2020,
+      "standings": []
+   },
+}
+```
+
+
+#### Sample Response
+```json
+{
+  "status": true,
+  "data": {
+      "name": "English Premier League",
+      "abbreviation": "Prem",
+      "seasonDisplay": "2020-2021",
+      "season": 2020,
+      "standings": []
+   },
+}
+```
